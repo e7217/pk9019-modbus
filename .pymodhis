@@ -1,0 +1,24 @@
+
+# 2021-02-10 14:37:22.692244
++client.bau
+
+# 2021-02-10 14:37:29.137035
++client.baudrate
+
+# 2021-02-10 14:37:44.009015
++client.get_baudrate
+
+# 2021-02-10 14:37:49.994241
++client.get_port
+
+# 2021-02-10 14:38:02.963312
++client.method
+
+# 2021-02-10 14:38:16.351651
++client.read_devi
+
+# 2021-02-10 14:38:24.460881
++client.read_device_information
+
+# 2021-02-10 14:41:56.670327
++client.get_serial_settings
